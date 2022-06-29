@@ -1,2 +1,2 @@
 # moviest
-A microservices project using Go
+A project created using microservices architecture and Go
