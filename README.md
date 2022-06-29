@@ -1,2 +1,2 @@
 # moviest
-A project created using microservices architecture and Go
+A movie tracker project using microservices architecture and Go
